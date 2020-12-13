@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/w23-react-redux-todolist/static/css/main.bac56dc3.chunk.css",
+    "main.js": "/w23-react-redux-todolist/static/js/main.c05bd5b6.chunk.js",
+    "main.js.map": "/w23-react-redux-todolist/static/js/main.c05bd5b6.chunk.js.map",
+    "runtime-main.js": "/w23-react-redux-todolist/static/js/runtime-main.cd06f1d0.js",
+    "runtime-main.js.map": "/w23-react-redux-todolist/static/js/runtime-main.cd06f1d0.js.map",
+    "static/js/2.43783acd.chunk.js": "/w23-react-redux-todolist/static/js/2.43783acd.chunk.js",
+    "static/js/2.43783acd.chunk.js.map": "/w23-react-redux-todolist/static/js/2.43783acd.chunk.js.map",
+    "static/js/3.46538a58.chunk.js": "/w23-react-redux-todolist/static/js/3.46538a58.chunk.js",
+    "static/js/3.46538a58.chunk.js.map": "/w23-react-redux-todolist/static/js/3.46538a58.chunk.js.map",
+    "index.html": "/w23-react-redux-todolist/index.html",
+    "static/css/main.bac56dc3.chunk.css.map": "/w23-react-redux-todolist/static/css/main.bac56dc3.chunk.css.map",
+    "static/js/2.43783acd.chunk.js.LICENSE.txt": "/w23-react-redux-todolist/static/js/2.43783acd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd06f1d0.js",
+    "static/js/2.43783acd.chunk.js",
+    "static/css/main.bac56dc3.chunk.css",
+    "static/js/main.c05bd5b6.chunk.js"
+  ]
+}
