@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/IjbSdVw.png)
 
-## 功能
+## 功能說明
 
 - 新增 todo
 - 刪除 todo
