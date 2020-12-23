@@ -2,6 +2,8 @@
 
 以 React 實作的 Todo List，並以 Redux 儲存需要共用的 state。
 
+[Todo List 連結](https://ericcch24.github.io/w23-react-redux-todolist/)
+
 ![](https://i.imgur.com/IjbSdVw.png)
 
 ## 功能說明
