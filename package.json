@@ -15,7 +15,7 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://ericcch24.github.io/w23-react-redux-todolist",
+  "homepage": "https://ericcch24.github.io/react-redux-todolist",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
