@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import TodoItem from "./components/TodoItem";
 import FilterButton from "./components/FilterButton";
@@ -11,6 +11,10 @@ function App() {
   const todos = useSelector(selectTodos);
   const filter = useSelector(selectFilters);
   const dispatch = useDispatch();
+
+  useEffect(() => {
+    document.title = "Todo List";
+  }, []);
 
   const checkFilter = (todo) => {
     if (filter === "") return todo;
