@@ -2,7 +2,7 @@
 
 以 React 實作的 Todo List，並以 Redux 儲存需要共用的 state，具有新增刪除篩選等基本功能。
 
-[Todo List 連結](https://ericcch24.github.io/w23-react-redux-todolist/)
+[Todo List 連結](https://ericcch24.github.io/react-redux-todolist/)
 
 ![](https://i.imgur.com/IjbSdVw.png)
 
